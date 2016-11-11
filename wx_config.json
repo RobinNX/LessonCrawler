@@ -3,7 +3,7 @@
   "mongodb": {
     "host": "127.0.0.1",
     "port": "27017",
-    "db": "mongodb://clarkzsd:aaa18072997390@ds044989.mlab.com:44989/wechat"
+    "db": ""
   },
   "wx": {
     "app_id": "",
